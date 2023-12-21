@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 
-// "MongoConnectionString": "mongodb://myserv:SKiEI6tRk55K4r3dwUCF5viVEWZmJsSJ9lUVHUM1xgVRuoGQqilhCTqquOPSPyaw7x7DUAen5f4eACDbs9d9Vg==@myserv.mongo.cosmos.azure.com:10244/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@myserv@"
+// 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
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
